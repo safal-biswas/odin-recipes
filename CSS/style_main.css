@@ -1,0 +1,22 @@
+img {
+  width: 900px;
+  height: auto;
+}
+
+.intro {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  background-color: #c8b24f;
+  color: rebeccapurple;
+  text-align: center;
+}
+
+.recipes {
+  color: #193d7c;
+  font-size: 20px;
+  font-weight: 700;
+}
